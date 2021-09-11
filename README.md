@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @halleysalamcha
 - 👀 I’m interested in Front end web development.
-- 🌱 I’m currently learning Reactjs and Kubernetes
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Reactjs and Kubernetes.
 - 📫 How to reach me ... email: halleysalamcha@gmail.com
 
 <!---
